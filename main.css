@@ -1,0 +1,32 @@
+body {
+    -webkit-device-pixel-ratio: 2;
+    height: 100%;
+}
+
+.schoeben {
+    position: relative;
+    top: 50%;
+    margin-top: -55.5px;
+    height: 111px;
+    text-align: center;
+}
+
+h1 {
+    text-indent: -100000px;
+    margin: auto;
+    height: 73px;
+    width: 607px;
+    background: url("name.png");
+    background-size: 100%;
+}
+
+ul {
+    margin-top: 16px;
+}
+
+ul li {
+    color: #666;
+    display: inline-block;
+    font-family: Avenir, Helvetica, sans-serif;
+    margin: 0 8px;
+}
